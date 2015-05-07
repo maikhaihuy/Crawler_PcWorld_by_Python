@@ -21,12 +21,14 @@ stop = False
 ajax_url = 'http://www.pcworld.com/ajaxGetMoreCategory'
 main_url = 'http://www.pcworld.com'
 # http://www.pcworld.com/ajaxGetMoreCategory?start=20&ajaxSearchType=1&catId=3025
-category_ids = ['3015', '3025', '2163', '2119', '2206']
+category_ids = ['2206','3025', '2163', '2119', '3019']
 
 for category in category_ids:
-	# http://www.pcworld.com/reviews?page=1
+	
 	print(category)
 	start = 0
+
+	count = 0
 
 	params = {
 		'catId': category,
@@ -39,7 +41,8 @@ for category in category_ids:
 		params['start'] = start
 		# Lay noi dung tu url
 		response = requests.get(ajax_url, params=params)
-
+		print(response.url)
+		print(response)
 		if response.status_code != 200:
 			break
 
@@ -47,7 +50,7 @@ for category in category_ids:
 		category_soup = BeautifulSoup(response.content)
 
 		# Lay duong dan cac bai viet
-		for div in category_soup.find_all('p', class_="crawl-headline"):
+		for div in category_soup.find_all('div', class_="excerpt-text"):
 			print(div.a['href'])
 
 			article_link = div.a['href']
@@ -70,6 +73,7 @@ for category in category_ids:
 						page_content += '\n'
 
 			if page_content:
+				count += 1
 				path = os.path.join('.', category, category + ' - ' + title + '.txt')
 
 				if not os.path.exists(os.path.dirname(path)):
@@ -80,6 +84,8 @@ for category in category_ids:
 				except OSError:
 					continue
 
-		start += 10
-		if start == MAX_LINKS:
+			if count >= MAX_LINKS:
+				break
+		if count >= MAX_LINKS:
 			break
+		start += 10
