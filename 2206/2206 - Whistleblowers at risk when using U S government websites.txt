@@ -1,0 +1,6 @@
+More than two dozen U S government websites should be urgently upgraded to use encryption as whistleblowers are potentially at risk according to the American Civil Liberties Union 
+There has been a broad push recently to move websites to using SSL TLS secure sockets layer transport security layer encryption Most e commerce sites use SSL TLS but the case has grown stronger for its broader adoption because of a surge in state sponsored espionage and cybercriminal activity 
+The government plans to upgrade all of its websites within two years to use encryption signified by https in a browser s URL bar It prevents data that is exchanged between a computer and a website from being read if it is intercepted or tampered with during a man in the middle attack 
+The ACLU said that the timeline is not soon enough for some sensitive sites which it said included the Justice Department Treasury Department and the Department of Homeland Security 
+For example the State Department has a page where people can report terrorism related tips but that information is not protected by encryption when sent the ACLU wrote 
+When individuals use these official whistleblowing channels to report waste fraud or abuse the information they submit is transmitted insecurely over the Internet where it can be intercepted by others ACLU wrote 

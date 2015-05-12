@@ -1,0 +1,7 @@
+Outlook may have been late to the mobile email game but Microsoft is pouring on the updates to try and win you over 
+There are now actions tied to each contact You can email them start a phone call map your way to their location or see your previous correspondence 
+Outlook gives you more details about your contacts and lets you permanently delete messages 
+Citing the unique controls provided by Android the version for Google s mobile OS will also pull in the contacts stored on your device instead of only those tied to your email accounts 
+It s now easier to find a contact when starting an email A new search capability will auto suggest among your contact directory using Global Address List search especially useful if you re in a large organization using an Exchange server 
+When you search through your email your search term is highlighted throughout the results just as it would be when searching through a Word document You can also select all to perform bulk operations on messages inside a folder These additions are iOS only for now though Microsoft says it s bringing them to Android 
+Additionally the embedded calendar now transforms to a three day view when turning your device to landscape mode Other small updates include the ability to permanently delete messages and undo any bulk actions 

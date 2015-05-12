@@ -1,0 +1,8 @@
+Europol in collaboration with Dutch authorities the U S FBI and private security companies have seized the domain names used to control a botnet called Beebone 
+The police action Wednesday included a so called botnet sinkholing operation that involved redirecting domains used by the botnet s command and control servers to a server controlled by security companies 
+Such an action prevents attackers from controlling the botnet and also gives authorities a chance to identify victims whose computers are now connecting to the sinkhole server 
+Information about the botnet will be distributed to ISPs and CERTs computer emergency response teams from around the world so they can notify victims and help them clean their systems Europol said Thursday in a press release 
+Compared to some other botnets Beebone was not large Initial figures suggest that it s made up of about 12 000 computers but the final count may be higher 
+The Beebone malware also known as Changeup is a polymorphic worm that has been around since 2009 It s particularly dangerous because it s used as a malware distribution platform 
+Beebone gets installed on systems through drive by downloads Web based attacks that exploit vulnerabilities in browsers but it s also distributed by the Vobfus worm Beebone itself also installs Vobfus creating a malware infection loop 
+We will continue our efforts to take down botnets and disrupt the core infrastructures used by cybercriminals to carry out a variety of crimes said Europol s deputy director of operations Wil van Gemert Together with the EU member states and partners around the globe our aim is to protect people worldwide against these criminal activities 

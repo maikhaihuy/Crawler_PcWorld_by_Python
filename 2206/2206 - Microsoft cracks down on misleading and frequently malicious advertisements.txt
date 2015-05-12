@@ -1,0 +1,5 @@
+Microsoft is taking a hard stance against advertisements that trick users into visiting malicious websites or downloading potentially harmful applications 
+The effects will be seen in Internet Explorer whose SmartScreen Filter feature will enforce new rules against misleading ads beginning June 1 The filter will display warnings to users when they encounter such ads pictured at top 
+Microsoft s examples of misleading ads 
+The company updated its evaluation criteria for malware and unwanted software to include ads that mislead deceive or confuse users ads that are indistinguishable from the content of websites they re displayed on ads that contain malicious code and ads that directly invoke file downloads 
+If you ve ever visited a site and received a warning that your computer is running slow and needs some kind of update or a notification that you need to update Java or some other browser plug in despite already running the latest version then you re already familiar with the type of deceptive ads that Microsoft wants gone 

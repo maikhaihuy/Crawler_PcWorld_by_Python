@@ -1,0 +1,6 @@
+Chinese vendors Tencent and Qihoo have been accused of gaming antimalware tests by releasing optimized versions of their products for testing purposes that wouldn t be reflected in the real world several antimalware firms said 
+Both companies will be stripped of their rankings AV Comparatives AV TEST and Virus Bulletin said The three stripped the rankings of Qihoo last week and of Tencent on Monday night 
+According to all test data this would provide a considerably lower level of protection and a higher likelihood of false positives the firms claimed 
+At the time Qihoo accused Baidu and Tencent of similar practices The three antimalware firms said they found some unexpected flags within Baidu and Tencent products marked with the names of several test labs and implying some difference in product behavior depending on the environment they were run in 
+However only Tencent has been found to be gaming the antimalware tests according to the antimalware firms 
+All three labs will be imposing stricter controls on participants to reduce opportunities for such actions in the future they said 

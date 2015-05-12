@@ -1,0 +1,5 @@
+Microsoft wants to help you to stop misplacing those random to do lists receipts and other random bits of clutter that you accumulate throughout the day 
+Its neatest trick uses optical character recognition OCR which recognizes handwriting and other text of scanned images You can then search it later which makes for a great way to find what you need from your handwritten notes It can also scan business cards and turn them into a contact 
+At the top of the app there s a toggle to switch between documents whiteboards or photos to give the app information about what kind of object you re taking a picture of 
+The sign in process is a little backwards You have to first take a photo and attempt to save it before you re triggered to enter your Microsoft account credentials 
+Once you get going you ll be able to save any image to OneNote OneDrive Word PowerPoint your phone s gallery as a PDF 

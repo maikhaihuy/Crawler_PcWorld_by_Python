@@ -1,0 +1,9 @@
+Casio Computer has developed an iOS app that lets users search for words in voice recordings 
+The English US Keyword Search Voice Recorder is aimed at businesspeople journalists students and anyone who makes recordings of presentations interviews or meetings It can reduce the time required to find a key part of a speech or other voice recording 
+It s being promoted as the first of its kind and does not need any voice training for the app to work It can also be used with any voice recording file 
+At a recent demo in Casio s Tokyo office a staffer showed how the app could find the word smartwatch in a recording of a technology news article It found all instances of the word as well as smartwatches within a few seconds 
+The technology involves machine learning algorithms that compare the phonetic characteristics of input keywords to the recorded audio All the computation is done in the app itself and it doesn t require a connection to the cloud It isn t perfect however and can sometimes yield results that merely sound like the keyword 
+Users can quickly click through the instances of the word and find the part of the speech they re looking for In addition to typing a keyword in the app search terms can also be input phonetically 
+Additional features include functions to skip silent parts of a recording playing it back at various speeds and tagging parts of the recording timeline with notes or photos 
+Unlike voice recognition applications seen in smartphones this app doesn t need a reference dictionary when processing inputs It just relies on the phonetic characteristics of keywords said Hiroki Tomita a researcher at Casio s Hamura R D Center 
+The app compatible with iOS 7 1 or later is priced at US 4 99 on Apple s App Store Casio does not have any immediate plans to launch an Android version 

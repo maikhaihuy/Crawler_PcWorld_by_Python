@@ -1,0 +1,8 @@
+It seems there can be further indignity foisted onto people who ve had their iPad or iPhone stolen 
+Symantec has discovered a campaign that aims to unlock Apple devices after they ve been lost which requires either the device s passcode or the credentials for a person s iCloud account 
+Apple s Find My iPhone feature has a Lost Mode that allows users to display a message on the screen of their lost device such as a phone number he wrote 
+The criminals send a text message to the phone number saying something like Apple Inc Your iPad Air 3G 64GB Space Gray linked to email address has been located today at 14 14 PDT See location link The link leads to a phishing site that is designed to look like the login screen for iCloud 
+If the victim s iCloud credentials are collected it is possible for a thief to turn off Lost Mode and begin using the device 
+Owners who are emotionally distressed due to the loss of their iPhone or iPad may easily fall for this scam as they may be desperate to get their device back Hamada wrote 
+It is possible that a criminal group is running this service for thieves looking to unlock the devices Hamada wrote 
+The underground ecosystem always has demands for such a service and where there is demand someone typically provides the supply he wrote 

@@ -1,0 +1,2 @@
+The update adds in a floating action button for launching a new email and a revamped slide out menu that now overtakes the action bar The overall interface was pretty minimalist to begin with but now it s even more so with additional white space 
+There are some new features as well Signatures can now be displayed while you compose your message and you can edit HTML in a message before replying or forwarding Additionally Google Calendar invites are displayed in a more mobile friendly format 

@@ -1,0 +1,9 @@
+A German data protection authority has ordered Google to change how it handles users private data in the country by the end of the year 
+The administrative order was issued on Wednesday by the Hamburg Commissioner for Data Protection and Freedom of Information Johannes Caspar in order to force Google to comply with German data protection law and give users more control over their data 
+The Hamburg data protection commissioner originally issued its order against Google in September last year but Google decided to oppose it Its objection was overruled by the authority 
+The company is now obliged to make the necessary changes in order to process data of German users on a valid legal basis Caspar said 
+The big problem is that Google gave itself the right to merge personal data gathered by all the different company services that an individual uses to build a complete profile on someone without obtaining that person s consent do so Caspar said This leads to a situation in which people reveal almost everything that they have done on the Internet to Google without really knowing what the company is doing with all the data he added 
+By the end of the year Google must get additional informed and explicit consent from its users to combine personal data from different Google services or limit the combination and processing of that data if such consent is not given Meanwhile it also has to be more transparent about what it does with the data Caspar said 
+If Google disagrees it can fight the order in a German administrative court within one month 
+Google did not immediately respond to a request for comment 
+The company though has already told the Hamburg authority as well as other European data protection authorities that it plans to make substantial changes to its policy to meet their requirements Those plans were presented to the authorities in late last month but it remains to be seen whether Google s proposed changes are sufficient Caspar said 

@@ -1,0 +1,11 @@
+A new type of malware resorts to crippling a computer if it is detected during security checks a particularly catastrophic blow to its victims 
+Rombertik goes through several checks once it is up and running on a Windows computer to see if it has been detected 
+That behavior is not unusual for some types of malware but Rombertik is unique in that it actively attempts to destroy the computer if it detects certain attributes associated with malware analysis wrote Ben Baker and Alex Chiu of the Talos Group 
+The last check Rombertik does is the most dangerous one It computes a 32 bit hash of a resource in memory and if either that resource or the compile time had been changed Rombertik triggers self destruct 
+It first takes aim at the Master Boot Record MBR the first sector of a PC s hard drive that the computer looks to before loading the operating system If Rombertik doesn t have access to the MBR it effectively destroys all of the files in a user s home folder by encrypting each with a random RC4 key 
+Once either the MBR or the home folder has been encrypted the computer restarts The MBR enters an infinite loop that stops from computer from rebooting The screen reads Carbon crack attempt failed 
+When it first gets installed on a computer it unpacks itself Around 97 percent of the content of the unpacked file is designed to make it look legitimate and is composed of 75 image and 8 000 decoy functions that are actually never used 
+This packer attempts to overwhelm analysts by making it impossible to look at every function Talos wrote 
+It also tries to avoid sandboxing or the practice of isolating code for a while until it has checked out Some malware tries to wait out the period it is in a sandbox hoping the sandbox period will time out and it can wake up 
+Rombertik stays awake however and writes one byte of data to memory 960 million times which complicates analysis for application tracing tools 
+If an analysis tool attempted to log all of the 960 million write instructions the log would grow to over 100 gigabytes Talos wrote 

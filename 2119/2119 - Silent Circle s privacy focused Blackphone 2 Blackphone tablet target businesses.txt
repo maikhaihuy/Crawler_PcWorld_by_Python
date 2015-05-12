@@ -1,0 +1,14 @@
+Silent Circle producer of the privacy centric Blackphone is turning its attention to enterprise customers with a new range of hardware and software due out later this year 
+The Swiss company plans to launch a new smartphone and tablet along with enterprise messaging software as it seeks to take advantage of increased awareness of security and privacy at corporations It cited a string of high profile attacks including last year s hack of Sony Pictures Entertainment as reason enough for companies to adopt its encrypted communications platform 
+Never before have businesses been under attack as they are today for their intellectual property said Mike Janke co founder of Silent Circle during a news conference at Mobile World Congress in Barcelona 
+The cornerstone of the offering will be two new hardware devices 
+Blackphone 2 will be available in July and cost about the same as its first generation phone which costs 629 Packing an eight core processor and 32GB of memory the phone has a 5 5 inch screen and MicroSD card slot and runs the company s PrivatOS 
+The Blackphone tablet will launch in the second half of the year and has a 7 inch screen and Qualcomm processor Few other details were announced regarding the device and Silent Circle didn t give its price 
+The devices will be accompanied by Silent Meeting a new secure conference calling system The system will ensure that only authorized participants can join meetings and all communications are private and encrypted Silent Meeting joins the company s encrypted text messaging and address book software as the third app in its software line up 
+On the services side the company will offer a privacy focused app store with apps vetted by the company an encrypted calling plan that offers private communications with users who don t have the company s devices and a web based manager for enterprises to control their devices and plans 
+Silent Circle s current plans run from 12 95 per month for 100 minutes of calling to 120 countries to 39 95 per month for 1 000 minutes 
+Silent Circle says it had unexpected success in the enterprise market with its first hardware product the Blackphone Of the 750 million it has booked in sales of the device and associated services about three quarters is with business users 
+Companies have traditionally relied on BlackBerry products for secure messaging but as that company falters Silent Circle is hoping to step in It claims to already be winning customers from BlackBerry and sees its products in use at 32 of the Fortune 50 companies although it didn t provide any details 
+But a big missing piece of enterprise communications remains email 
+Janke said that Silent Circle has been working on an encrypted peer to peer email system but it s still in development 
+We have that and we will launch it he said but didn t say when that might be 

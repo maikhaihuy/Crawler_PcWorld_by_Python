@@ -1,0 +1,4 @@
+Partition Stitching is now ready to rock according to Microsoft so the Windows development team was able to expand the preview to include support for additional Lumia devices 
+The expanded compatibility list includes 36 Lumia models including the Lumia 1020 and Lumia 1520 The full list from Microsoft follows below 
+Microsoft stresses that this is a preliminary list and is subject to change The company may add or remove models from the compatibility list as it fixes bugs or finds new ones 
+Microsoft hasn t said when it plans to release the next build of Windows 10 but when it does check back with Microsoft to see if it s added support for your device 

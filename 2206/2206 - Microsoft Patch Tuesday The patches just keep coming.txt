@@ -1,0 +1,5 @@
+For Microsoft the vulnerabilities just keep popping up and appear to be surfacing more quickly than ever before 
+A year ago Microsoft s monthly bulletins tended to be fewer in number usually in the single digits noted Wolfgang Kandek chief technology officer for IT security firm Qualys 
+It is quite a bit higher than it was last year Kandek said The pace is accelerating Things are happening faster and faster 
+This month s bulletins cover Microsoft Office Internet Explorer SharePoint Server the Net runtime the Hyper V virtual machine and both the server and desktop editions of Windows 
+Microsoft marked four bulletins as critical meaning that they should be applied as quickly as possible One covers a zero day vulnerability meaning the vulnerability is already being exploited by attackers 

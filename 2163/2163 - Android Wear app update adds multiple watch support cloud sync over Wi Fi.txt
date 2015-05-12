@@ -1,0 +1,3 @@
+Version 1 1 of the Android Wear app cleans up the interface and loads in some new features like letting you pair with several watches and enabling your watch to stay connected over Wi Fi Google is also using the update as a chance to remind you about letting your watch count your steps and save that info in Google Fit 
+You can now direct your smartwatch to sync data over a Wi Fi connection 
+Google recently showed us a batch of new features such as always on support for apps an ambient mode for better battery life a new flick your wrist gesture and a contacts launcher Most of those will come in a firmware update to your Android Wear watch not the companion app 

@@ -1,0 +1,15 @@
+Microsoft s Surface 3 is the first announced device to use Intel s new Cherry Trail Atom chips but you can expect therm to show up soon in other devices too So what are the chips capable of and what should we expect 
+Here s a few other things to expect 
+Multiple OSes 
+Cherry Trail tablets will run both Windows and Android though don t expect too many of the latter Atom chips are favored more in Windows tablets which is partly why Intel is struggling to compete with ARM which dominates the huge Android market Cherry Trail chips will initially go into higher end tablets so to the extent that we do see Intel based Android tablets they re likely to run older Bay Trail chips 
+Strong graphics 
+No big change in battery life 
+There had to be a trade off for the better graphics and it was battery life which will remain constant or improve only slightly Microsoft has pegged the battery life of Surface 3 at around 10 hours watching video which isn t much of an improvement from the ARM based Surface 2 
+No big change in basic application performance 
+While graphics have improved the CPU performance doesn t get much of a boost So while Real Racing 3 played well it actually took a little longer than I expected to load The priority with Cherry Trail was not to improve CPU performance which was already adequate an Intel representative said 
+Not just for tablets 
+Cherry Trail will find its way into a wide range of devices ranging from wearables to low cost Windows 10 laptops Cherry Trail cropped up in Microsoft s HoloLens augmented reality headset which allows you to interact with objects that appear to float before you in space 
+Look ma no wires 
+The Surface 3 doesn t make use of it but tablets with Cherry Trail can have wireless charging features built in That means you ll be able to plop your device down on a special charging surface and not worry about plugging it in It might not be a lot of use right now but Intel wants to make wireless charging as ubiquitous as WiFi and its in talks with airports cafes hotels and other places to make it happen 
+3D cameras 
+Move over 2D photography Cherry Trail comes with technologies to support Intel s depth sensing RealSense 3D camera technology which can measure distance and recognize objects It could make Skype conversations look better by masking out backgrounds or scan objects so they can be printed in 3D 

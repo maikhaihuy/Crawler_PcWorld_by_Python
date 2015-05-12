@@ -1,0 +1,7 @@
+Point of Sale PoS terminals have become an attractive target for hackers over the past year reflected in the increasing number of RAM scraping programs that steal payment card information from the memory of such systems 
+Security researchers from Trustwave now warn that during a recent investigation with the U S Secret Service they ve uncovered yet another RAM scraping PoS threat they ve named Punkey 
+This new malicious program that has at least three variants is very similar to another family of PoS malware known as NewPosThings The similarities suggest the two families are based on the same source code but Punkey has enough differences to make it unique 
+Punkey has versions for both 32 bit and 64 bit Windows based PoS terminals and in addition to stealing payment card data while it s being processed it also installs a keylogger to capture what employees type on such systems 
+The malware injects itself into the Windows explorer exe process and creates registry start up entries to ensure its persistence It also drops a file called DLLx64 dll which is the keylogger component 
+All payment card details and keystrokes captured by the malware are first encrypted with AES Advanced Encryption Standard and are then sent back to a command and control C C server 
+The malware can also download and execute other malicious files including updates for itself 

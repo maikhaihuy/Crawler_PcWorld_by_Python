@@ -1,0 +1,3 @@
+A fresh attack by a long known hacking group suspected to be linked with Russia did little to mask its activity in an attack a week ago 
+The malware delivered in the latest attack is very similar to CHOPSTICK a backdoor known to be used by APT 28 In fact the malware delivered in the latest attack used the same RC4 encryption key that was used by CHOPSTICK FireEye said 
+Even hacking groups considered to be sophisticated often reuse infrastructure or components which over the long term help security researchers identify their attacks FireEye also said the latest malware connects to the same command and control infrastructure that APT 28 has used 

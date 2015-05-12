@@ -1,0 +1,3 @@
+The new SwiftKey Beta attempts to clean up the app s numerous settings and put them within easy access of the keyboard 
+The SwiftKey theme store and other settings have been moved to the Hub which is integrated right into the keyboard 
+It s more of a reorganization than a major feature rollout but it s good to see SwiftKey continuing to push forward with its well regarded keyboard app 

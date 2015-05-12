@@ -1,0 +1,3 @@
+Adobe Systems released security patches Tuesday for ColdFusion Flex and Flash Player the latter addressing a flaw for which is an exploit is already available 
+The Flash Player updates namely Flash Player 17 0 0 169 for Windows and Mac Flash Player 11 2 202 457 for Linux and Flash Player Extended Support Release 13 0 0 281 address a total of 22 vulnerabilities most of which are critical and can lead to remote code execution 
+One of the flaws tracked as CVE 2015 3043 in the Common Vulnerabilities and Exposures CVE database has been known by attackers since before Adobe released its latest patches This makes it a so called zero day vulnerability a flaw for which a fix was not yet available when it began being exploited 

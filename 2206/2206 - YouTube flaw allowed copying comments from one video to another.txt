@@ -1,0 +1,6 @@
+An Egypt based security researcher said Google has fixed an interesting vulnerability he and a colleague found in YouTube 
+Ahmed Aboul Ela wrote on his blog that he and a fellow researcher Ibrahim Mosaad wanted to find a problem in a feature on YouTube that not many bug hunters have tested 
+Aboul Ela wrote he intercepted the http request that is sent to Google when a comment is approved The request contains two parameters comment_id and video_id 
+An error is returned if the video_id is changed to a different one he wrote But YouTube accepted changing the content_id number to a different video which then caused the comment to get copied to that video 
+The original comment from the original video doesn t get removed and the author of the comment does not get notified that his comment is copied onto another video Aboul Ela wrote 
+The flaw could have been used in many ways It could be used to make it appear that a video is more popular that it actually is Or it could have been used to falsely make it appear a celebrity or public figure commented on something Aboul Ela wrote 

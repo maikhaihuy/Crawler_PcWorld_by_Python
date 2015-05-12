@@ -1,0 +1,2 @@
+A version 1 1 update brings this and the ability to edit RAW image files all features that didn t make the cut in the app s debut on Android 
+Unfortunately while the app can access photos stored on your device or an SD card it still requires you to move a photo into a collection in your Adobe CC cloud storage before you can start editing it 

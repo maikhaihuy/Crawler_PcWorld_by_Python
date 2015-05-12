@@ -1,0 +1,18 @@
+In Silicon Valley the recruiting game is extremely competitive according to Ron Harrison founder of Jivaro Professional Headhunters a specialist in placing technology candidates 
+In some cases Harrison said the difference between getting nothing and a US 30 000 fee has come down to the few slim minutes between when one recruiter sent a resume to a company and a competing recruiter did 
+It s a dirty business Harrison said in a phone interview 
+Recruiting is complicated by the fact that companies may share resumes even if the receiving company isn t a client of the recruiter Essentially it means a recruiter loses its intellectual property through a gaping hole an unencrypted document can be sent to anyone 
+But Harrison s company is one of 10 trying software from a startup named Vera that aims to lock down documents transferred over email or other file sharing services such as Box or Dropbox 
+Cofounder Ajay Arora said Vera addresses a common enterprise problem once a document leaves a company s network it s just out there for anyone to see who receives it or intercepts it 
+While there is a lot of software out there that tackles this problem Arora said he wanted to create a product that is very easy to use and doesn t interrupt the workflow of employees Harrison for example said he was up and running in a few minutes with Vera and it was easy for his employees to use 
+With a right click on a file a set of policies can be attached to for example a resume The resume is encrypted with the decryption key passed only to the authorized recipient who doesn t have to install Vera s software 
+The document won t open if it is forwarded to someone else It can also be time bombed or locked up after a predetermined amount of time or blocked from being printed Copy and pasting can also be stopped 
+Vera uses AES 256 bit encryption to scramble a file and then puts a metadata wrapper around it that contains the policies attached to it The metadata wrapper phones back to Vera s servers to make sure the authorized recipient is opening it and then a symmetric key is securely transferred from Vera s servers to the recipient to decrypt it Arora said 
+Vera works with Windows and Mac and as well as iOS and Android The company hasn t released pricing details but the software will be charged per user per month 
+Vera s cloud based approach is likely speedier than other data leakage prevention products on the market which are heavy programs that offer strong encryption but may suffer performance issues during decryption said Jan van Vonno senior research analyst with analyst IDC 
+This is one very obvious advantage it does not require the latest and greatest technology to use effectively van Vonno wrote via email 
+But file sharing vendors are also promoting their own layers of security said Alan Lepofsky vice president and principal analyst with Constellation Research And there are also a variety of other encryption products designed to place nicely with Dropbox and other file storage services 
+Vera s differentiator is a high level of control over files Another advantage is that administrators using Vera s portal can see who opened what file and when 
+That was a key point for Harrison whose firm is sometimes marketing candidates who are also signed up with other recruiters Although he can see timestamps for when an email with a resume was sent seeing exactly when a company opened a resume is crucial as it strengthens his argument if his firm should get the fee if a person is hired 
+I know when it the resume was opened Harrison said 
+In two of three cases Vera s reporting helped Jivaro get its fees The third case was moot since the candidate wasn t hired he said 

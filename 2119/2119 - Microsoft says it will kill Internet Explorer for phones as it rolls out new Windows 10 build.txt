@@ -1,0 +1,11 @@
+Microsoft began rolling out Build 10051 of the Windows 10 Technical Preview for phones on Friday adding in the Project Spartan browser and tons of new apps Microsoft also said that Spartan will in the future be the exclusive browser in Windows phones 
+Specifically the new update adds support for the Spartan Browser plus new versions of several new apps Mail Calendar Phone Messaging People Maps plus a new app switcher While the update was scheduled to roll out at 10 a m Pacific on Friday at press time I was still not able to download it on my Lumia 830 
+Update The provisioning data is still being updated This should be a 2 minute process and it has been going for 40mins Debugging 
+As before given this is preview alpha software you re not advised to use your primary phone to download the new update Why Because Microsoft has sacrificed certain functions to test the new build including the Office Hub and the ability to automatically back up your photos to OneDrive 
+Microsoft hasn t yet published screenshots of the new apps so we can t see what they look like But here s a brief rundown of what to expect in the new update 
+Project Spartan s reading view in the desktop version of Windows 10 
+Pflug also dropped a bombshell You ll still find Internet Explorer 11 as the default browser in this preview in a later update Project Spartan will be the only browser included on Windows phones he wrote 
+
+The new Messaging app as shown off in January 
+A January preview of the universal Maps app 
+Updated at 12 27 PM with comment by Microsoft s Kyle Alden 

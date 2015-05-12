@@ -1,0 +1,6 @@
+Lenovo in February admitted to preloading Superfish on some consumer notebooks and now the company has taken steps so the dangerous adware doesn t reappear when users reinstall Windows 
+The China based company is shipping free recovery media for affected customers that will contain an image of the Windows OS and preloaded software but not Superfish With the recovery media users will be able reinstall Windows on laptops and not worry about Superfish showing up again 
+Lenovo was hit with criticism and lawsuits after admitting it messed up by preloading Superfish on laptops The adware plugs product recommendations into search results but also could leave computers vulnerable to malicious attacks by hijacking SSL Secure Sockets Layer connections and opening major security holes 
+Lenovo has confirmed it is shipping a clean version of the recovery media for free though it wasn t immediately known if would come in a DVD or USB drive The company isn t shipping the media in bulk to all affected users so users will need to call customer service to check eligibility 
+ThinkPad laptops are not affected by Superfish 
+Lenovo has since implemented a stricter process for evaluating and loading bloatware on PCs Like Hewlett Packard and Dell the company believes that some preloaded such as antivirus and productivity software are important for computer users 

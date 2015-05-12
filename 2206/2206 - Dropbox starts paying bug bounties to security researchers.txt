@@ -1,0 +1,5 @@
+Dropbox said Wednesday it will pay rewards to independent researchers who find software flaws in its applications joining a growing list companies who see merit in crowdsourcing parts of their security testing 
+The popular file storage service previously publicly recognized researchers but did not pay a reward also sometimes referred to as a bug bounty 
+Facebook Google Yahoo and many other large companies pay researchers rewards that are often determined by the seriousness of the software flaw Running such programs are more efficient than hiring more security engineers since a company s applications are analyzed by a larger number of people with diverse security skills 
+Eligible programs are Dropbox s mobile applications the photo viewer Carousel its desktop client and the Dropbox Core SDK 
+The smallest bounty is 216 Dropbox hasn t set a maximum it will pay but the largest so far has been 4 913 With the launch of the program Akhawe wrote Dropbox would retroactively pay 10 475 to those who reported critical bugs through its previous program 

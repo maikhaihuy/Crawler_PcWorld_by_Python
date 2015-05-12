@@ -1,0 +1,5 @@
+You don t have to jump out of a Google Doc anymore just to save a copy to your device for offline editing 
+Google made the keep on device option much easier to get to with the latest update for Docs Sheets and Slides for Android devices The capability to save a file was already there but you had to stop working on your document and head out to the document list to do so 
+Google Docs now puts the Keep on Device option in two different locations 
+Now you can touch the top right menu inside of a file and tap the box to keep it on your device This way you can keep working on it even if your Internet connection dies off 
+The floating action button choices are now more finger friendly changing from the previous iteration left to the current layout right 

@@ -1,0 +1,14 @@
+Right now you can t buy Windows based handsets that run on Intel chips but that will change later this year with the mobile version of Windows 10 
+Microsoft s recent Windows Phone OSes worked only with ARM based processors from Qualcomm Though Windows 10 will also work on ARM systems compatibility with Intel x86 chips breaks that exclusivity 
+Devices with the X3 chips will be priced from under 75 to 249 The X3 chips will also be offered in Android handsets 
+Windows Phone hasn t taken the smartphone market by storm going into just 34 9 million handsets amounting to a market share of just 2 7 percent in 2014 In comparison smartphones with Android numbered 1 06 billion an 81 5 percent market share while those with Apple s iOS totaled 192 7 million a 14 8 percent market share according to IDC 
+The Atom X3 processor has an integrated 3G radio an Intel first 
+The adoption of Windows mobile operating systems however will only go up said Aicha Evans vice president and general manager of Intel s Communication and Devices Group 
+We consider that very important Evans said 
+The long standing alliance between Microsoft and Intel known as Wintel has dominated PCs but struggled in tablets With support for Windows 10 and Android on low cost smartphones Intel hopes to launch a two pronged attack on ARM whose processors are used in most handsets 
+It s not yet known which vendors will use Intel chips in Windows 10 smartphones The first dual core Atom X3 chips will be in 3G smartphones in the first quarter of the year and quad core X3 chips with LTE are coming in the second half 
+Atom X3 based smartphones could be basic at best A Sofia smartphone will have quality graphics high definition video a 13 megapixel rear camera and 5 megapixel front camera Evans said 
+The graphics core in X3 is based on years old ARM technology called Mali which Intel obtained with the acquisition of Infineon wireless Intel has partnered with Chinese chip maker Rockchip to design some of the X3 chips 
+Asus is the only big name vendor that will sell devices with Atom X3 chips Intel is otherwise tapping China device makers to develop products much like it did with tablets 
+With Windows 10 Microsoft is taking another shot at developing an OS for both ARM and x86 chips After building previous versions of Windows only for x86 chips the emergence of tablets prompted Microsoft to build a version of Windows 8 called Windows RT for ARM tablets Following a cold reception to Windows RT Microsoft scrapped the idea of an ARM compatible Windows 10 desktop OS 
+Microsoft is pushing for a Windows 10 user experience that is consistent across smartphones tablets and PCs But it remains to be seen how Microsoft will make applications work on both x86 and ARM which have completely different instruction sets Many applications such as Microsoft Office and Skype that were written for ARM based Windows RT tablets were not compatible with x86 based devices 

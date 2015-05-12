@@ -1,0 +1,6 @@
+Netflix has released under an open source license an internal tool it developed to manage a deluge of security alerts and incidents 
+Called FIDO Fully Integrated Defense Operation the tool is designed to research score and categorize threats in order to speed up handling of the most urgent ones 
+It was a largely manual and labor intensive process As attacks increase in number and diversity there is an increasing array of detection systems deployed and generating even more alerts for security teams to investigate it said 
+Netflix has often opted to built its own tools to deal with specific problems with its massive delivery of video across the web FIDO potentially competes with security information and event management systems on the market 
+FIDO collects incident information from firewalls intrusion detection and anti malware systems It figures out what kind of system is being attacked and checks external threat feeds to put the incident into more context 
+It then scores the incident to gauge how severe it may be It can be configured to take automatic actions such as disabling an account or a network port or send an alert that can be evaluated by an engineer 

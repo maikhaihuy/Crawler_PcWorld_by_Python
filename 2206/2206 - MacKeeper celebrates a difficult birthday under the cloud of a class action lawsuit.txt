@@ -1,0 +1,24 @@
+Released in 2010 MacKeeper has been dogged by accusations that it exaggerates security threats in order to convince customers to buy Its aggressive marketing has splashed MacKeeper pop up ads all over the web 
+It is close to being settled according to recent documents filed in U S District Court for the Western District of Pennsylvania 
+MacKeeper was wildly lucrative for ZeoBIT As many as 650 000 consumers bought it in the U S according to documents filed in the suit At 39 95 per copy ZeoBIT would have made 26 million in revenue in the U S alone 
+In April 2013 ZeoBIT which now lists its headquarters as Sunnyvale California sold MacKeeper to a company called Kromtech Alliance Corp Kromtech was closely affiliated with ZeoBIT in Ukraine and many employees of ZeoBIT transferred to the company which lists its headquarters as Cologne Germany 
+MacKeeper evaluates a computer s health as serious even if it is a freshly installed and patched version of OS X Yosemite Click to enlarge 
+An effort has been under way by Kromtech to rehabilitate the image of MacKeeper to keep the franchise going But concerns remain over how MacKeeper diagnoses a computer s health 
+MacKeeper warned in red in several places with exclamation points that the computer s condition was serious due to more than 500MB of junk files 
+After fixing 85 files for free it warned more than 1 500 need cleaning but only if the full version of the program was purchased Those that supposedly need cleaning up included language files 
+MacKeeper justifies its serious evaluation of a computer saying it is not in danger but contends that junk files could eventually affect its performance Click to enlarge 
+Jeremiah Fowler MacKeeper s U S based spokesman said that Kromtech has toned down its warnings but defended the program s evaluations 
+Sure it may not be this massive amount of data but these are things that you ll never use Fowler said You ll probably never activate Chinese 
+Fowler pointed out that there is a pop up window with more information on one of the warning screens That message justified the warnings and said MacKeeper found a relatively large amount of unneeded files that could eventually affect a computer s performance or security 
+Some affiliates have wrapped MacKeeper ads into advertising software programs or adware It s a category of much loathed tools that offer some functionality such as search but are primarily designed to deliver ads 
+Kromtech has taken steps to reign in unethical affiliates Fowler said More than 80 percent of ZeoBIT s affiliate agreements have since been suspended and the company s new compliance department closely vets new ones 
+Still the bad practices of former affiliates caused damage to MacKeeper s reputation Fowler said 
+MacKeeper wants to be a one stop shop but its subscription pricing includes many unnecessary utilities already included in OS X or easily found for free 
+These days MacKeeper has gone to a subscription based pricing model rather than a 39 95 one off payment It costs 7 95 a month in the U S for the premium year long plan Its latest feature is offering phone support from Apple certified technicians which it calls Human Inside 
+On its website MacKeeper assigns a value to each of its tools contending the bundle would be worth 510 if bought individually 
+Save up to 97 percent it says 
+But many of the tools in the software bundle which includes an antivirus AV scanner and 15 other utilities are already in OS X or available for free 
+Avira s free Mac AV product includes updates and real time protection the labs noted 
+Other MacKeeper tools already have an equivalent in OS X MacKeeper s file shredder tool listed as a 10 value replicates secure empty trash built into OS X The default apps tool is similar to Apple s Finder 
+But ZeoBIT s proposed settlement over MacKeeper doesn t include Kromtech as a released party which means it could be targeted by future lawsuits 
+Edelson PC a technology focused law firm that filed the suit said it could not comment 

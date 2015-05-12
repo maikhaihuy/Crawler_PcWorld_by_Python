@@ -1,0 +1,11 @@
+Computers in more than 50 countries are infected with a new version of Pushdo a spamming botnet that has been around since 2007 and survived several attempts to shut it down 
+At one time Pushdo infected computers sent as many as 7 7 billion spam messages per day Security analysts have tried to kill it four times by commandeering its infrastructure but a new version of the malware has emerged once again with high concentrations of infections in countries such as India Indonesia Turkey and Vietnam 
+Pushdo was very successful in what it did so coming up with various revisions or versions of it makes a lot of sense for the bad guys said Mike Buratowski vice president of cybersecurity services at Fidelis Cybersecurity based in Austin Texas 
+The latest version has been pushing Fareit which is malware that steals login credentials and Cutwail a spam engine module It has also been used to distribute online banking menaces such as Dyre and Zeus 
+Part of what has made Pushdo so resilient is its frequently changing command and control system which is used to issue instructions to an infected PC such as uploading spam templates 
+Pusho infected computers contact a primary command and control server but if that fails they fall back to a secondary system Buratowski said 
+That process known as sinkholing let Fidelis see the scope of Pushdo infections across the world because some infected computers call on those domains Most end in kz the country code top level domain for Kazakhstan 
+Although it appears that unpatched consumer computers are most at risk from Pushdo Buratowski said his company has seen some infections in enterprises 
+In the past Pushdo has been distributed through spam and drive by download attacks which are Web based attacks that look for software vulnerabilities on a person s computer It has also occasionally been installed by other botnets as part of pay per install cybercriminal affiliate schemes 
+The security industry has tried to shut down Pushdo four times during the last seven years but those efforts only resulted in temporary disruptions 
+Many of the ISPs cut off connectivity to the servers which caused a sudden drop in Pushdo s spam output ISPs also made an effort to contact customers whose computers were infected However researchers were wary of declaring victory and rightly so 

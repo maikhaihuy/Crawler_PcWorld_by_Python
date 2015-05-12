@@ -1,0 +1,6 @@
+Microsoft s vision of using your Windows 10 phone as a miniature PC is a lofty one too lofty in fact for the current generation of hardware Microsoft s Gabriel Aul who oversees the Windows 10 Insider program at Microsoft said as much on Friday 
+Continuum adapts the look and feel of a Windows 10 application to the screen on which it s displayed On a Surface Pro 3 for instance if the device undocks into tablet mode its menus will become less complicated with larger touch points 
+On phones Continuum becomes even more interesting If a Windows 10 phone is connected to a desktop monitor via the mini HDMI port then the phone s universal apps expand to fill the monitor s space providing a desktop like experience from just the phone 
+Unfortunately according to Aul the necessary processing power to do that lies beyond the capabilities of the current generation of Windows phones 
+It seems almost cruel to make Windows Phone users shell out to enjoy platform improvements that were a long time coming Unfortunately that appears to be the price of progress Rudy Huyn who has authored numerous clones of popular apps for the Windows Phone platform offered his take via Twitter as well 
+Sorry guys Continuum will need new hardware It s not just about Miracast it s also about be able to render two screens with different sizes 

@@ -1,0 +1,11 @@
+A botnet designed for Web advertising fraud was also used to nudge up the number of views of some pro Russian videos on the website DailyMotion according to security vendor Trustwave 
+We can t know for sure who s behind the fraudulent promotion of video clips but it appears to be politically motivated he wrote 
+Using botnets to inflate the number of views on videos isn t new but Kogan wrote this is the first time we ve observed the tactic used to promote video clips with a seemingly political agenda 
+One of the videos promoted Russia s position on Crimea which it forcibly annexed from Ukraine last year Others also dealt with Russian political and military issues although some had no Russia connection The videos appear to have been removed from DailyMotion now 
+All of the videos had around 320 000 views each but weren t widely shared on Twitter or even commented on Kogan wrote 
+Computers that visited the videos were infected with a trojan called Bedep Some people were infected after they visited a tourism website that hosted Angler a so called exploit kit that tries to find software vulnerabilities on a computer in order to deliver malware 
+The Bedep malware was programmed to create a hidden virtual desktop on a victim s computer and runs a fully featured Internet Explorer instance Kogan wrote Users would be unaware of what was going on in the background 
+Bedep also caused that hidden browser to navigate to custom made websites stuffed with advertisements in order to increase ad impressions 
+The objective of ad fraud is to generate fake traffic to ads and receive compensation based on traffic volume Kogan wrote Obviously more compromised computers leads to more traffic directed to the ads which leads to more revenue for the fraudster 
+Some of the infected computers then appear to have been directed to websites hosting other exploit kits such as Neutrino and Magnitude loading yet more malware 
+Those controlling Bedep are trying to maximize their profit by selling traffic from compromised computers to other campaigners that seek to spread their own malware via Magnitude and Neutrino Kogan wrote 

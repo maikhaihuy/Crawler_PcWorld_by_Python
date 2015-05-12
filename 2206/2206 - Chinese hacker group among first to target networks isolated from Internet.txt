@@ -1,0 +1,14 @@
+An otherwise unremarkable hacking group likely aligned with China appears to be one of the first to have targeted so called air gapped networks that are not directly connected to the Internet according to FireEye 
+FireEye picked up on it after some of the malware used by the group was found to have infected defense related clients in the U S said Jen Weedon manager of strategic analysis with FireEye 
+APT 30 has operated since at least 2005 It has targeted people through spear phishing or sending emails containing malicious attachments or harmful links 
+The group has consistently updated its malware but the tools it uses are generally not that sophisticated and it has used some of the same command and control infrastructure for years on end 
+It seems to be they ve been successful in being good enough Weedon said Sunday 
+The organizations targeted may have had lax security postures which made them easy for APT 30 to infiltrate without needing to resort to more advanced or sophisticated attack methods she said 
+The countries primarily targeted were India South Korea Malaysia Vietnam Thailand Saudi Arabia and the U S Other countries likely to have been targeted are Nepal Bhutan the Philippines Singapore Indonesia Brunei Myanmar Laos Cambodia and Japan FireEye said 
+The group has a particular interest in the relationship between China and India including border issues FireEye s report said APT 30 s focus on those particular subjects make it likely that it is sponsored by China 
+What s most interesting about APT 30 is that it developed tools that are designed to move from systems connected to the Internet to those that aren t connected Governments use such air gapped networks to reduce the chance an external attack will be successful 
+The group designed malware components with worm like capabilities that can infect removable drives such as USB sticks and hard drives Those devices can transfer the malware if connected to a device on an air gapped network 
+FireEye said it has seen many groups develop this capability but APT 30 appears to have made this a consideration at the very beginning of their development efforts in 2005 significantly earlier than many other advanced groups we track 
+Over the years FireEye has written many reports on groups it has linked to China This group however doesn t appear to be linked to any of the other ones and operated in relative isolation 
+APT has its own development resources and doesn t share attack infrastructure with other groups Weedon said 
+This group seems pretty insular she added 

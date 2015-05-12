@@ -1,0 +1,17 @@
+Watch out computer security professionals Cloud computing vendors are coming for your jobs 
+It may be inevitable or you may be able to take back control by rigorously studying how your organization uses technology But either way life is changing for IT security experts 
+Companies like Google and Amazon have figured out configuration management while enterprises avoid the process said Marcus Ranum chief security officer of Tenable 
+That s the reason why Amazon is going to have your jobs in 10 years We are failing as an industry said Ranum who spoke Wednesday at a meeting of the Information Systems Security Association New England chapter 
+To keep their employer s data secure and potentially save their jobs security professionals need to advocate for configuration management he said 
+Configuration management means recording and updating data on the software and hardware used in a business Among other things it means noting in detail which applications are used on each employee s computer 
+Many companies find configuration management hard because it requires an organization to understand what employees do how the business operates and why a certain technology was purchased questions that not every enterprise can answer he said So they shun the process instead turning to cloud providers that appear to better understand security said Ranum 
+While keeping tabs on a company s technology may look daunting recovering from a data breach or determining which machines are infected with malware is even harder said Ranum 
+It security staff need to help business executives understand why configuration management is worth doing said Ranum 
+For one thing it can help companies manage their vulnerabilities 
+For example knowing what software marketing employees use allows a company to flag activities that aren t normal for them such as installing a compiler program or trying to access human resources information Those actions could mean the marketing department s computers are infected with malware 
+Showing how much money configuration management can save helps sell the concept said Ranum Top management might be more interested if they knew how much money was spent cleaning malware off computers that weren t part of a configuration plan 
+Over time it s unavoidable that enterprise security staff will see their roles diminish said privacy and security researcher Bruce Schneier who also spoke at the event 
+We re losing control over our IT infrastructure he said because cloud computing is increasingly used to handle tasks that used to be done by IT departments like email and collaboration Another reasons is that more employees are doing work on personal mobile devices 
+Organization have turned to third parties for IT management and also expect them to handle security he said While cloud computing may save companies money IT staff don t know enough about outside vendors security practices 
+The financial reasons are great but security is hurting said Schneier But he thinks in the future enterprise computing will be treated as a utility like electricity and outsourced to a service provider 
+This means a lot of security gets centralized and organizations lose control over it he said 

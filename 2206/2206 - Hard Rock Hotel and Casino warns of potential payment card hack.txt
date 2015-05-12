@@ -1,0 +1,6 @@
+The Hard Rock Hotel and Casino a 640 room hotel in Las Vegas has warned payment cards may have been compromised over an eight month period ending early last month 
+The information that may have been stolen includes names credit and debit card numbers and CVV codes PIN numbers were not compromised 
+The hotel said the card details were exposed between Sept 2 2014 and April 2 this year It affected transactions made at restaurants bars and retail shops inside its large facility but not the hotel and casino 
+Retailers across the U S have been battling attacks aimed at point of sale systems that process payment card transactions Target Home Depot Neiman Marcus and others have said their systems were infected with malware 
+The malware known as RAM scrapers collect unencrypted card details after a card is swiped The details briefly sit in the memory of the processing system where the malware grabs them and eventually sends the information to a remote server 
+Security experts have recommended that retailers should move to more robust systems using point to point encryption to protect transactions but such upgrades can be expensive 

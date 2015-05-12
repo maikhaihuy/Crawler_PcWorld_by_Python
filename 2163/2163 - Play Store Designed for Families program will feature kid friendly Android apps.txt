@@ -1,0 +1,3 @@
+Google says it s launching a child friendly version of the Android app store in a few weeks and is seeking developers to help build it 
+It s unclear exactly how the Designed for Families section will work but Google says it will offer apps in six categories Action Adventure Brain Games Creativity Education Music and Video and Pretend Play The existing Family Games section of the Play Store will be deprecated in 2015 
+Google is also telling developers to only include its Google Sign In or Google Play game services as an optional feature and only if the app is targeted at more than just children 

@@ -1,0 +1,3 @@
+Nuzzel aims to help you get control of the firehose of news and information constantly flooding forth from social networks 
+Nuzzel for Android is designed for finding news your friends are sharing and sending along your favorite articles to others 
+You ll need to login with a Twitter or Facebook account so Nuzzel can mine your social feeds Nuzzel also offers featured feeds which are collections of articles from the accounts of public figures 

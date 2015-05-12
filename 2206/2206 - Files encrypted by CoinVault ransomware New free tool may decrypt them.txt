@@ -1,0 +1,4 @@
+Victims of the CoinVault ransomware might be able to decrypt their files with a free tool released by Kaspersky Lab together with the Dutch police 
+Ransomware like CoinVault encrypts data on a disk or blocks access to a computer system It is usually installed by exploiting a vulnerability on victims computers via phishing emails or links to malicious websites 
+The Dutch police has not made any arrests in connection with the ransomware but said it soon might because the perpetrator behind the CoinVault ransomware is suspected to be in the Netherlands 
+Victims of ransomware are encouraged to report attacks to the police because reports by a company and an individual led to the discovery of the keys and to a possible lead on a suspect the police said 

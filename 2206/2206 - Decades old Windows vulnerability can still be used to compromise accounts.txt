@@ -1,0 +1,8 @@
+A vulnerability found in the late 1990s in Microsoft Windows can still be used to steal login credentials according to a security advisory released Monday 
+He wrote the flaw was not resolved long ago but that we hope that our research will compel Microsoft to reconsider the vulnerabilities 
+The vulnerability called Redirect to SMB can be exploited if an attacker can intercept communications with a Web server using a man in the middle attack 
+Windows or a program running on Windows can then be directed to communicate with a malicious SMB server message block server which can then force an application to divulge the username domain and hashed password of the person logged in Wallace wrote 
+CERT wrote that although the collected credentials are encrypted attackers could try brute force techniques which involves trying to guess a password until access is gained 
+There are some mitigations An attacker needs to be on the same network as a victim It is also possible to block an attack by stopping outbound traffic on TCP ports 139 and 445 Wallace wrote 
+Microsoft said it didn t agree with Cylance s findings saying it provided guidance on the issue to businesses six years ago Several factors would need to come together for this type of cyberattack to work such as success in luring a person to enter information into a fake website it said We encourage people to avoid opening links in emails from senders that they don t recognize or visiting unsecure sites 
+Updated at 10 56 AM with comment from Microsoft 

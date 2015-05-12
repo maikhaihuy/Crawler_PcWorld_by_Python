@@ -1,0 +1,5 @@
+Yes it s really been February since we last saw a Windows Phone technical preview update So take heart the next one s due Friday 
+In case anyone missed the announcement on Windows Weekly We re targeting Friday 10 00AM PST for next phone build 
+The Windows 10 for phones preview Microsoft showed off in February included this new Settings screen above and the new Action Center top 
+What we said then still holds true however Because phones lack any virtual machine capability installing Windows 10 probably means installing it on your primary phone a risky step If you re lucky enough to have a spare Windows Phone lying around it s a different matter 
+Aul didn t disclose any of the features that could be expected in the new build nor did he offer any hints of what Microsoft had planned for the BUILD conference at the end of the month Tune in Friday when we ll download the new build and report on what features Microsoft has added to it 

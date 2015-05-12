@@ -1,0 +1,2 @@
+After giving lots of love to Android Wear Microsoft is setting sights on Apple s smartwatch with new PowerPoint and OneDrive apps 
+Unfortunately Microsoft hasn t included wrist controls for PowerPoint on other devices such as PCs and Macs though it seems like an obvious feature to include down the road In the meantime users should be able to mirror the iPhone s display on an Apple TV using AirPlay and use the watch to control slideshows that way 

@@ -1,0 +1,12 @@
+If you re tired of using your fingertip or a PIN to unlock your smartphone Yahoo suggests using your ear instead 
+In a project presented at the 2015 Computer Human Interaction Conference CHI in Seoul this week Yahoo showed that other body parts can unlock phones in a fast secure manner 
+This approach to biometric authentication makes use of capacitive touchscreens in phones Compared to relatively expensive fingerprint sensors which have been deployed in higher end phones Yahoo s technology can be used on any phone with a touchscreen even cheap handsets 
+While not as simple as PINs the system would be quicker and more convenient than inputting four digits 
+The input resolution of smartphone touchscreens is much lower than fingerprint sensors so larger body structures are used for authentication 
+The researchers created an app called Bodyprint that can scan users ears knuckles palms and fingers when they are pressed against the touchscreen The capacitive sensors in the screen register the topography of these body parts which are unique to each individual 
+In a small study of 12 participants the system was able to identify users with an accuracy of 99 52 percent according to the research paper presented at CHI 
+In a demo video shown at CHI a Bodyprint user gets a call on his smartphone By simply pressing it to his ear he can unlock the phone and begin talking The authentication process takes less than a second 
+Unlocking your smartphone is something you do 150 times per day said Christian Holz a research scientist at Yahoo Labs in Sunnyvale California You want to make unlocking it convenient but also secure That s why fingerprint scanners are so successful 
+Using other body parts can be traced back to the pioneering French biometrics researcher Alphonse Bertillon who focused on classifying ear structures Holz added We re basically exploiting that on commodity devices 
+Multiple users can have their ear prints or prints of other structures stored in a phone The scans can also be used to lock documents in the device so that an ear print or palm print from two or more users is needed to unlock it 
+Holz said he and his colleagues plan to improve the recognition algorithms in Bodyprint but would not comment on potential commercialization 

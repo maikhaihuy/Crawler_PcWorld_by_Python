@@ -1,0 +1,5 @@
+However when you do a voice search Google only listens for your one default language If you speak multiple languages you can change that in a few taps 
+Just pick the languages you speak 
+Selecting secondary languages allows you to switch back and forth with a limit of one language per search Basically Google detects the language you re speaking for each search then plugs in the right translation engine If you have voice output enabled the device will also speak in the detected language 
+All I remember of high school Spanish 
+You won t be able to mix and match words from multiple languages in the same query but this is still much more convenient than going into the settings each time you want to use another tongue 

@@ -1,0 +1,8 @@
+A vulnerability within two widely used WordPress plugins is already being exploited by hackers putting millions of WordPress sites at risk according to a computer security firm 
+Both plugins use a package called genericons which contains vector icons embedded in a font In the package there is an insecure file called example html which makes the package vulnerable Dede wrote 
+The payload that is delivered is executed directly in the browser and doesn t go to the server Dede wrote That means Web application firewalls can t see it and stop it 
+Dede wrote that Sucuri found a way to virtually patch the exploit but that DOM based XSS flaws are very tricky to block 
+For a successful attack a victim would have to be tricked into clicking on a malicious link 
+Some hosting companies and services such as GoDaddy DreamHost and ClickHost have either done a virtual patch or taken other steps to protect users Dede wrote 
+WordPress is used widely across the Web for publishing so vulnerabilities in it are particularly troublesome By the company s own estimation it runs 23 percent of the sites on the Internet including major publishers such as Time and CNN 
+Last month WordPress patched two critical and similar cross site scripting vulnerabilities The flaws allow malicious JavaScript entered into a comments field to run 

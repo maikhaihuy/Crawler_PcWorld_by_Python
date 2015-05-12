@@ -1,0 +1,6 @@
+Microsoft s unified API lets third party apps share data for example Uber can look at your calendar and send you a reminder when it thinks you might need a ride to an appointment 
+Finally a PicHit me plugin was shown that makes it easy to add high quality pictures to your Office products The PicHit me integration should go live in Microsoft s Sway shortly and these intelligent app integrations should hit the other Office apps Word PowerPoint etc in the coming months 
+PicHit me will be integrated with Microsoft Sway 
+The new API and a behind the scenes Office Graph will allow developers to dive into your far flung Microsoft data from Calendar entries to OneDrive files and also allow apps to share data back to those Microsoft services 
+If it works as advertised this new third party extensibility could be a powerful capability for Microsoft indeed and one far more powerful than the ho hum Office Web Apps available thus far 
+Nadella also announced a new Web SDK for Skype which will allow developers to embed Skype messages and video chat into their apps The sharing goes both ways it seems 

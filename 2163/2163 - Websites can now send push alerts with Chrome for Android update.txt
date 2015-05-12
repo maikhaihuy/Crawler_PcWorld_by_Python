@@ -1,0 +1,4 @@
+Chrome for Android will soon start sending you push alerts buzzing your phone just like any other mobile app 
+Chomre lets you manage push notifications in case they start to get annoying 
+Fortunately you ll be able to adjust the settings and turn off notifications from a site if they start to overwhelm you Google says you ll start to see the feature roll out when visiting supported websites in the next few weeks Supporting this feature requires some extra legwork for developers so it won t take over the web overnight 
+Another change is that you may also get prompted to add a home screen icon from such mobile optimized sites It s not exactly a new concept the original iPhone could do this but it s clear Google is pushing a bigger role for Chrome on Android 

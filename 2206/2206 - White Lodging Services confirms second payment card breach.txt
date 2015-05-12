@@ -1,0 +1,11 @@
+A large hotel management company has confirmed a second payment card breach in less than 14 months underscoring the difficulties businesses are having with data thieves 
+The Merrillville Indiana based company manages hotels under agreements with hotels owners and is a separate entity from the specific hotel brands it operates 
+Those affected are customers who used their cards at food and beverage outlets between July 2 2014 and Feb 6 2015 in 10 hotels which were eight Marriotts one Courtyard and one Renaissance 
+The property management system used to process room charges at front desks do not appear to be affected White Lodging said 
+White Lodging is just one of many business including Target Neiman Marcus and Home Depot which have been struck by point of sale malware The malware collects payment card data immediately after a card is swiped and the details sit unencrypted in a computer s RAM 
+White Lodging s problems appear to be a combination of bad luck and very persistent hackers After its first data breach White Lodging said it hired a third party security firm which it did not identity to help shore up its systems 
+Unfortunately the security measures put in place did not stop the implantation of malware on point of sale systems at food and beverage outlets in select hotels we manage it said 
+Law enforcement has been notified and no arrests have been made White Lodging said The company didn t say if it suspected the same hacker or group of hackers was behind the latest attack 
+Arrests and prosecutions of suspects related to point of sale attacks have been rare as many times the hackers are believed to be outside the U S 
+While law enforcement agencies in different countries are cooperating with more efficiency these days cross border cybercrime investigations can still be slow and complicated 
+Extraditing suspects is also not possible from some countries For example the U S does not have extradition treaties with China or Russia two nations often accused of hosting cybercriminal activity 

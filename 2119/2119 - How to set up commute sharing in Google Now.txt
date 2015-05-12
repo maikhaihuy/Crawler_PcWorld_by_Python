@@ -1,0 +1,4 @@
+The Google app has come a long way since the days when it was just a search widget for the home screen Now it contains Google Now voice search location services and even manages the home screen if you use the Google launcher You can harness all that power to do some cool things as long as you know where to look For example Google Now can let a friend or family member know when you ve started your daily commute Here s how to set it up 
+Make sure you ve enabled commute sharing or your location information won t do any good 
+This person or people will then get a Google Now notification when you start your commute home 
+Choose only those who you trust enough to make your exact location known 

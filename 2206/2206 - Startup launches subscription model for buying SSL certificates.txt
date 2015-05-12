@@ -1,0 +1,14 @@
+A Utah based startup has launched a subscription model for buying SSL certificates an essential but at times onerous task 
+Companies and organizations are using more and more SSL certificates as the need for secure machine to machine communication has increased with cloud computing virtualization and mobile devices 
+Buying and managing SSL certificates has never been pleasant The pricing models have been characterized as a racket with customers charged per certificate type of certificate how long it is valid for and how many servers its used on It s not unusual for a single average EV extended validation SSL certificate to cost between US 600 to 800 
+A typical medium size business using HydrantID has multiple business units that buy SSL certificates from different vendors said Trell Rohovit CEO of HydrantID That makes tracking and managing certificates difficult he added 
+Subscribers use HydrantID s cloud based portal to manage certificates which has a console to request new certificates get audit reports and logs The company has also built a Web services API that companies can integrate directly into their own systems 
+Customers can generate new certificates when needed for free such as when a system administrator leaves HydrantID s management system warns when a certificate is about to expire 
+That way you can deploy more and you can secure more Rohovit said We believe that will really help take the friction out of the system 
+He estimated that a medium size organization could save 25 to 50 percent using HydrantID s subscription service The cost savings are great but companies were equally attracted by a more flexible system to deploy encryption Rohovit said 
+He acknowledged that HydrantID s subscription model may not be unique for long as other major SSL players such as Symantec s VeriSign unit closely watch industry trends 
+I d be naive to say to say our competitors are not going to follow suit Rohovit said 
+So far HydrantID s customers include the U K based gaming company Betfair and the audio company Skullcandy 
+These days many practices are letting customers download their health care records said Christine Archibald ManagementPlus s CEO With the increase in data breaches that has meant a demand for SSL which is also required by the U S government for delivering health care information she said 
+ManagementPlus helps eye care practices set up those portals to download the records and uses HydrantID for more than 500 clients It pays for only one certificate per practice but can generate new ones as needed which Archibald said is very economical for us 
+For us they made it so simple and easy we are able to concentrate on other products and services she said 

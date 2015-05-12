@@ -1,0 +1,7 @@
+During the second half of 2015 Netflix will roll out a new user interface for its television apps The company isn t sharing specific details about the new interface but says it will bring video playback forward into the browse experience 
+It s not clear what that means but it sounds like some kind of video preview may start auto playing when you re browsing titles Netflix says it will also work on improving how it promotes Netflix original content to subscribers including better targeting original shows based on your viewing history 
+Netflix doesn t secure its video streams or its browsing pages 
+As for security Netflix says it will soon secure all connections between users and the company s servers with HTTPS encryption including video streams and pages where you browse content 
+Right now Netflix only secures your connection with its site when you login or for other sensitive data like your account payment details Streaming content and browsing titles however is left unsecured potentially revealing your viewing interests to third parties 
+What you watch can reveal a lot about you including your personal interests and political beliefs so it s good news that Netflix is securing this data from passive surveillance 
+Netflix says it expects to complete the HTTPS roll out over the next year 

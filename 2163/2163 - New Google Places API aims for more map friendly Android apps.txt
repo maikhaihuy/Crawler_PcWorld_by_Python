@@ -1,0 +1,3 @@
+Android devs are getting more tools to inject Google Maps deeper into their apps 
+There s also an autocomplete feature which will generate venue suggestions when you start typing into a search box 
+Finally a Place Add API will let users add new suggestions to the Google Places database 

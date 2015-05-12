@@ -1,0 +1,10 @@
+A large number of ads distributed by a Google advertising partner redirected users to Web based exploits that attempted to install malware on users computers 
+Security researchers from Dutch security firm Fox IT observed the malvertising campaign Tuesday when ads coming through a Google partner in Bulgaria called Engage Lab started redirecting users to the Nuclear Exploit Kit 
+Exploit kits are Web based attack platforms that try to exploit vulnerabilities in browsers and browser plug ins in order to infect users computers with malware The Nuclear Exploit Kit specifically targets vulnerabilities in Adobe Flash Player Oracle Java and Microsoft Silverlight 
+The rogue redirects stopped later in the day suggesting that either Google or Engage Lab took action 
+Google and Engage Lab did not immediately respond to requests for comment 
+It s unclear how many websites and users were affected but according to Dantzig Fox IT detected a relatively large amount of infections and infection attempts from this exploit kit among our customers 
+The Fox IT researchers have yet to identify the specific malware program distributed through the campaign 
+Malvertising has been a growing problem for years and despite large advertising networks claiming to have sophisticated defenses in place attackers still find ways to bypass them 
+These attacks are particularly dangerous because users don t need to visit obscure websites in order to get infected Once attackers manage to push malicious ads onto a large advertising network those ads get displayed on popular generally trusted websites 
+That s because a typical online advertisement goes through five or six intermediaries before being displayed in a user s browser and it can be replaced with a malicious one at any point in that chain Website owners also have no control over what ads will be displayed on their websites the U S Senate said 

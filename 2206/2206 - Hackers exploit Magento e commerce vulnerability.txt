@@ -1,0 +1,6 @@
+Those using Magento s e commerce platform should ensure they re using its latest software as attackers are increasingly exploiting a flaw patched two months ago security companies warned 
+The vulnerability can allow an attacker to gain complete control over a store with administrator access potentially allowing credit card theft wrote Netanel Rubin of Check Point s Malware and Vulnerability Research Group As many as 200 000 websites use Magento which is owned by eBay 
+Analysts with Sucuri Security wrote on Thursday they ve seen indications that attackers using two Russia based IP addresses are trying to exploit unpatched Magento applications 
+The exploit code Sucuri analyzed is a SQL injection attack which inserts a new admin_user into a database Cid wrote the exploit uses the usernames vpwq and defaultmanager The presence of those names on a system could indicate a successful attack 
+Check Point posted a video on its blog that showed how the flaw could be used to reduce the price of a US 100 000 watch on an e commerce site they created for demonstration purposes 
+Rubin wrote the vulnerability in Magento is composed of several flaws which allow an unauthenticated hacker to run PHP code on a web server The flaws are within Magento s core code and affects default installations of Magento s Community 1 9 1 0 and Enterprise 1 14 1 0 editions he wrote 

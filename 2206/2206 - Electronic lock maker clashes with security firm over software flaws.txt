@@ -1,0 +1,9 @@
+The maker of a widely used electronic lock has taken issue with a security company s criticism of one of its flagship products 
+CyberLock which received advance notice of the problems from IOActive contends it wasn t given enough time or information prior to IOActive s warning Mike Davis the IOActive researcher who found the problems published two letters said to have been sent by CyberLock s lawyers to IOActive 
+It remains unclear if CyberLock plans to file a lawsuit against IOActive Neither company could be immediately reached late Tuesday 
+Davis analyzed CyberLock s product which blends a physical lock with electronic access controls A CyberLock contains an embedded microchip that determines whether a special battery powered key is authorized to open it A key can be programmed to only open the lock between certain hours and can also be entirely revoked 
+IOActive s advisory said the company found a half dozen problems with CyberLocks 
+After some reverse engineering it appears that these devices are easily cloned and new keys can be created from lost cylinders and keys regardless of the permissions granted to the key Davis wrote Additionally time of day restrictions are enforced by the key not the cylinder allowing an attacker access at any time regardless of the configuration 
+IOActive found it could extract a key from the lock s firmware and create a cloned key by intercepting communications between a previously authorized key and a lock The key is stored in clear text within a CyberLock the company wrote 
+The company also contends it hasn t been give full technical information and that IOActive proceeded to publish the advisory after giving its technical staff little notice 
+IOActive s tactics to threaten disclosure unless technical staff is made available within a matter of days is simply making this process more difficult for all of us CyberLock s letter alleged 

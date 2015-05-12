@@ -1,0 +1,6 @@
+AirDroid a popular management tool for Android devices has fixed a severe authentication software flaw in its Web interface that could give a hacker complete control over a mobile phone 
+AirDroid lets people manage their phone from a Windows or Mac tablet or through a Web interface To do that it asks for a lot of permissions such as the ability to send text messages turn on a camera and have access to the phone among many others 
+Bishop Fox found it could take over a device running AirDroid by sending a person a malicious link over SMS Bryant wrote 
+Due to JSONP being an insecure method of sharing data across origins it is possible to hijack all of the AirDroid application functionality Bryant wrote By doing this other users Android devices can be hijacked 
+A successful attack means a hacker would have full control over an Android device and can see the phone s contacts track the device using GPS and transfer photos 
+Bryant wrote Bishop Fox tested AirDroid s patch and have found it more than adequate 

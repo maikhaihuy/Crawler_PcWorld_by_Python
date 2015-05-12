@@ -1,0 +1,3 @@
+If you re going to root your Galaxy S6 or S6 Edge prepare to miss out on Samsung Pay and potentially other software features 
+Samsung says you ll be able to just tap the register with your phone to make a payment as it uses a magnetic field that mimics the transaction of swiping a card This could give Samsung Pay a much wider appeal as you won t be limited to stores that accept NFC payments 
+The other downside to rooting Samsung s newest phone is that it disables Samsung s KNOX Security software which could disable other software elements that tie into it 

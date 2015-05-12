@@ -1,0 +1,8 @@
+The idea is to expand the range of tools organizations can use to find security flaws in their software before hackers do and sell that valuable information wrote Katie Moussouris chief policy officer for HackerOne one of IBB s sponsors along with Facebook and Microsoft 
+There s a thriving shady market for security vulnerabilities Governments including the U S are known to pay large sums for information on security flaws that can be used for intelligence operations 
+Independent researchers can make far more money selling vulnerability information to deep pocketed buyers rather than reporting them to companies Although many such as Facebook and Google offer rewards for information the companies can t match state sponsored organizations or cybercriminal groups 
+Moussouris is scheduled to present research conducted with MIT and Harvard University researchers at the RSA security conference in San Francisco next week It looks at the motivations behind selling software vulnerabilities particularly those known as zero days 
+Zero days are considered the most dangerous software problems since attackers are actively using them to compromise systems but there aren t patches available 
+Their study sought to find effective methods to reduce the pool of zero day vulnerabilities for sale While bug reward programs run by companies have been effective the opportunity to sell to both offense and defense markets has increased Moussouris wrote 
+The best chance for organizations trying to defend their software is to have more tools to scan their own software 
+Example tools include but are not limited to fuzzers debugger plugins and especially ways to help determine exploitability of bugs more efficiently she wrote 

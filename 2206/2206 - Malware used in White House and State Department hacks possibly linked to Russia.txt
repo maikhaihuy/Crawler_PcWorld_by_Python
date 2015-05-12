@@ -1,0 +1,5 @@
+The group of attackers behind cyberintrusions at the White House and the Department of State last year used malware that bears strong similarities to cyberespionage tools suspected to be of Russian origin 
+More importantly technical evidence suggests that some of the CozyDuke malware has strong functional and structural similarities to known components of the MiniDuke CosmicDuke and OnionDuke cyberespionage tools the Kaspersky researchers said 
+Those three threats have been used to attack NATO members and European governments over the past two years and are believed to be related 
+While the Kaspersky researchers did not discuss CozyDuke s possible origins in their blog post researchers from other companies who analyzed MiniDuke CosmicDuke and OnionDuke in the past believe they are the work of the Russian government 
+Considering the victims of the law enforcement use case seem to be from Russia and none of the high profile victims are exactly pro Russian we believe that a Russian government agency is behind these operations the F Secure researchers concluded 

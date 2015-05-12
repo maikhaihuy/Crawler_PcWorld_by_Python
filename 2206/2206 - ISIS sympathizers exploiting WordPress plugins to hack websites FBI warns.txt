@@ -1,0 +1,7 @@
+The Federal Bureau of Investigation warned Tuesday that attackers claiming to be sympathetic to the extremist group ISIS are targeting websites that have vulnerable WordPress plugins 
+The content management system has a thriving community of third party developers who have created some 37 000 plugins but occasionally security vulnerabilities in one can put a large number of websites at risk 
+The defacements have occurred on websites that share some of the common WordPress plugins with vulnerabilities that are easily exploited the FBI said 
+Although the defacements demonstrate low level hacking sophistication they are disruptive and often costly in terms of lost business revenue and expenditures on technical services to repair infected computer systems the advisory said 
+The attackers voice support for ISIS sometimes referred to as ISIL to gain more notoriety than the underlying attack would have otherwise garnered the FBI said 
+A cross site scripting vulnerability in the plugin could allow an attacker to add a new administrator to a site or inject a backdoor using WordPress s theme edition tools As many as a million WordPress sites use the plugin 
+In late February Sucuri said the same number of WordPress sites were vulnerable to takeover due to a flaw in another analytics plugin called WP Slimstat 

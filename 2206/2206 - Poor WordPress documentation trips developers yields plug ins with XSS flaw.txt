@@ -1,0 +1,10 @@
+Ambiguous WordPress documentation led many plug in and theme developers to make an error that exposed websites to cross site scripting XSS attacks 
+Such attacks involve tricking a site s users into clicking on specially crafted URLs that execute rogue JavaScript code in their browsers in the context of that website 
+The impact depends on the user s role on the website For example if victims have administrative privileges attackers could trigger rogue administrative actions If victims are regular users attackers could steal their authentication cookies and hijack their accounts 
+The Scrutinizer researchers originally found the problem in the popular WordPress SEO and Google Analytics plug ins developed by Yoast Joost de Valk Yoast s founder and owner then realized that the same error might exist in other plug ins 
+Together with members of the WordPress team and researchers from Web security firm Sucuri de Valk began checking other popular plug ins for the same flaw and sure enough the instances started piling up 
+The plug ins found to be vulnerable so far have received patches so WordPress users are strongly encouraged to check their administrative dashboards for any available plug in updates Some plug ins have been updated automatically but others have not 
+Because there are likely many more vulnerable plug ins and themes that haven t been identified yet developers are advised to check their own code for insecure use of add_query_arg and remove_query_arg 
+Make sure you are escaping them before use the Sucuri researchers said We recommend using the esc_url or esc_url_raw functions with them You should not assume that add_query_arg and remove_query_arg will escape user input 
+The official WordPress documentation for those functions has also been updated to better reflect the need to escape user input 
+Depending on what the affected plug ins do they could open cross site scripting flaws in front end or back end pages This means in some cases XSS attacks can be launched against regular users while in others only against administrators 

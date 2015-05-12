@@ -21,12 +21,18 @@ stop = False
 ajax_url = 'http://www.pcworld.com/ajaxGetMoreCategory'
 main_url = 'http://www.pcworld.com'
 # http://www.pcworld.com/ajaxGetMoreCategory?start=20&ajaxSearchType=1&catId=3025
-category_ids = ['2206','3025', '2163', '2119', '3019']
+# 2206 : Security
+# 2119 : Phone
+# 2163 : Tables
+# 3019 :
+# class_="excerpt-text" -> a(href="link")
+
+category_ids = ['2119']
 
 for category in category_ids:
 	
 	print(category)
-	start = 0
+	start = 90
 
 	count = 0
 

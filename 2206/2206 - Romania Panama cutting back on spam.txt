@@ -1,0 +1,9 @@
+Romania and Panama two of the world s notable sources of spam now have fewer computers producing it according to security vendor Cloudmark 
+The U S remains first in having the most systems blocked by IP address for sending junk mail though by the percentage of its total IP addresses it ranks fairly low 
+Cloudmark blocked between 20 percent and 25 percent of Romania s entire IP address space between November 2012 and April 2014 due to spam but that s now down to 6 2 percent 
+While this is still high it does represent significant progress in the past year the report said 
+Panama which has a low number of IP addresses in relative terms had more than 10 percent of its entire IP space blocked Cloudmark said That was mostly due to a hosting service called Panamaserver com 
+Now only 1 5 percent of Panama s IP space is blocked Spam coming from Panamaserver com tends to be short runs of a few days rather than weeks the report said 
+Saudi Arabia however is being blocked more often About 6 4 percent of its total IP space is blocked due to ongoing issues with the largest ISP there Saudinet 
+It appears to be the result of widespread botnet infections and compromised accounts rather than the situation in Romania and Panama where the resources were purchased by spammers Cloudmark said 
+The top countries for the number of IP addresses blocked are the U S followed by China Germany Russia and then Romania Cloudmark said 

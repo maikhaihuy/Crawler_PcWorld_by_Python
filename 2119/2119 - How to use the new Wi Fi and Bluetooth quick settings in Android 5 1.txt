@@ -1,0 +1,4 @@
+When you swipe down with two fingers to access the quick settings panel you ll notice the Wi Fi and Bluetooth buttons now have small arrows underneath them 
+The available Wi Fi networks and your Bluetooth devices can now be accessed from toggle buttons in the quick settings menu 
+These are linked to a pop up menu With Wi Fi touch it and you ll get a list of the available Wi Fi networks in range Just touch the one you want to switch to and your device will change over to that network 
+This distinction make sense as connecting to a new Wi Fi network is pretty common especially when you re visiting a coffee shop or at a conference Bluetooth pairing is a more exhaustive process so it s best to hide unfamiliar devices deeper in the settings 
